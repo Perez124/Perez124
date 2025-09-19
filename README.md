@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm Perez  
 
-<!--
-**Perez124/Perez124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** | 🤖 **AI Engineer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🔭 I build **modern, responsive, and scalable web applications**  
+- 🤖 I design and integrate **AI-powered solutions** into real-world projects  
+- 💡 Passionate about creating **user-friendly dashboards, intelligent systems, and innovative products**  
+- 🌍 Open to **collaboration, freelance projects, and opportunities** in Full-Stack Development & AI  
+
+---
+
+### 🛠️ Tech Stack  
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, SQL  
+**AI / ML:** Python, TensorFlow, OpenAI APIs, Machine Learning Models  
+
+---
+
+### 🌍 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/perez-david-okoro)  
+- 🐦 [Twitter OR X](https://x.com/OkoroPerez)  
+- 📫 Email: perezdavidokoro@gmail.com. 
+
+---
+
+⭐️ *“Code with purpose. Build with vision. Engineer with intelligence.”*
